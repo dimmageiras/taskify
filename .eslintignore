@@ -1,0 +1,11 @@
+node_modules/
+public/
+.eslintrc
+.eslintignore
+.gitignore
+.prettierrc
+index.d.ts
+package-lock.json
+package.json
+tsconfig.json
+webpack.config.js

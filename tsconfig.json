@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"jsx": "react-jsx",
+		"module": "es2022",
+		"moduleResolution": "node",
+		"lib": ["dom", "es2022"],
+		"strict": true,
+		"sourceMap": true,
+		"target": "es2022",
+		"baseUrl": "src"
+	},
+	"include": ["src", "index.d.ts"],
+	"exclude": ["node_modules"]
+}
